@@ -1,4 +1,4 @@
-# Hangman-cli-Game
+# Hangman-CLI-Game
 
 -This is a simple CLI based game written in Golang which will ask users to guess a word and for every wrong guess the attempts will be reduced.
 
