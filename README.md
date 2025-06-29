@@ -9,3 +9,5 @@
 -On every wrong guess the wrong letter will be displayed which will help the user to not to repeat the same letter.
 
 -For every wrong attempt, the formation of hangman starts and as soon as the attempts are over, a full hangman will be formed and game will be finished.
+
+-Finally, the summary of user's gameplay will be displayed.
